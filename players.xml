@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002b6406fef4a4a8ff7223e28f18614" nativeplatform="Steam" nativeuserid="76561198232876536" playername="HEXA丶JH" lastlogin="2024-07-10 22:17:08" position="-3,35,376">
+    <acl platform="EOS" userid="0002883dd12f46528b8a7d3140ee85b2" />
+    <acl platform="EOS" userid="00023b7dcead48efbb962044d9bc10fd" />
+    <acl platform="EOS" userid="00020f28dd7541beb4783cb539dd613f" />
+    <bedroll pos="-8,42,376" />
+  </player>
+  <player platform="EOS" userid="0002883dd12f46528b8a7d3140ee85b2" nativeplatform="Steam" nativeuserid="76561199335723302" playername="慢慢当第一" lastlogin="2024-07-10 22:15:26" position="-6,35,378">
+    <acl platform="EOS" userid="00023b7dcead48efbb962044d9bc10fd" />
+    <acl platform="EOS" userid="0002b6406fef4a4a8ff7223e28f18614" />
+    <acl platform="EOS" userid="00020f28dd7541beb4783cb539dd613f" />
+    <bedroll pos="-14,35,347" />
+    <questpositions>
+      <position id="1569046285" positiondatatype="2" pos="-782,32,1454" />
+      <position id="1569046285" positiondatatype="0" pos="67,36,364" />
+      <position id="1569046285" positiondatatype="7" pos="-730,35,1535" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="00023b7dcead48efbb962044d9bc10fd" nativeplatform="Steam" nativeuserid="76561198890296634" playername="秀念别去啊！" lastlogin="2024-07-10 22:17:08" position="-6,35,376">
+    <acl platform="EOS" userid="0002883dd12f46528b8a7d3140ee85b2" />
+    <acl platform="EOS" userid="0002b6406fef4a4a8ff7223e28f18614" />
+    <acl platform="EOS" userid="00020f28dd7541beb4783cb539dd613f" />
+  </player>
+  <player platform="EOS" userid="00020f28dd7541beb4783cb539dd613f" nativeplatform="Steam" nativeuserid="76561199733795111" playername="wy" lastlogin="2024-07-10 22:14:08" position="2,40,364">
+    <questpositions>
+      <position id="-1881588182" positiondatatype="4" pos="-544,38,1022" />
+    </questpositions>
+  </player>
+</persistentplayerdata>
